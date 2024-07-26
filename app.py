@@ -1,2 +1,2 @@
 message = "hello"
-print\(message\)
+print(message)
